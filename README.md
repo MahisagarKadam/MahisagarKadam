@@ -1,102 +1,109 @@
-<h1 align="center">👋 Namaste, I'm Mahisagar</h1>
+<h1 align="center">✨ Hey, I'm <span style="font-size:34px">Mahisagar Kadam</span> 👋</h1>
 
 <p align="center">
-  <b>Computer Engineering Student · Python & ML Enthusiast · Azure & Data Lover</b>
-</p>
-
-<p align="center">
-  Turning <b>signs</b> into <b>speech</b> and <b>data</b> into <b>insights</b>.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=22&color=4AA7FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;AI+%7C+ML+%7C+Computer+Vision+Enthusiast;Python+%7C+Java+%7C+Azure+Learner;Always+building+something+cool+🚀" />
 </p>
 
 ---
 
-## 🔍 About Me
-
-- 🎓 B.E. in <b>Computer Engineering</b> – Savitribai Phule Pune University  
-- 🧠 Interested in <b>AI/ML, Computer Vision, Cloud, and Backend Development</b>  
-- 🖐 Built <b>Hearing Hand</b> – a real-time Indian Sign Language (ISL) detection system using YOLOv8  
-- ☁ Completed <b>Microsoft Azure Fundamentals (AZ-900)</b>  
-- 📊 Comfortable with <b>data cleaning, dashboarding, and analytics</b> using Power BI  
-- 🚀 Always learning, building, and breaking things (in a safe way 😄)
-
----
-
-## 🛠 Tech Stack
-
-**Languages**  
-Python · Core Java · SQL · HTML · CSS · JavaScript  
-
-**Data / ML / CV**  
-NumPy · Pandas · Matplotlib · Seaborn · MediaPipe · OpenCV · YOLOv8  
-
-**Backend & Web**  
-Flask · FastAPI (basics) · REST APIs  
-
-**Cloud & DevOps**  
-Microsoft Azure (VMs, Storage, Networking, Security) · Git · GitHub  
-
-**BI & Analytics**  
-Power BI · DAX · Excel  
-
-**Tools & IDEs**  
-VS Code · PyCharm · Jupyter Notebook · Google Colab  
+## 🌟 About Me
+- 🎓 Final-year **Computer Engineering** student  
+- 🤖 Passionate about **AI/ML, Computer Vision, Data & Cloud**  
+- 🧠 Developer of **Hearing Hand – ISL Detection System** (YOLOv8 + MediaPipe)  
+- ☁ Cleared **Azure Fundamentals (AZ-900)**  
+- 📊 Comfortable with **Power BI, SQL, ETL, Analytics**  
+- 💻 Always exploring new tech & building real-world projects  
 
 ---
 
-## 🧩 Featured Projects
+## 🚀 Tech Stack
 
-### 🎧 Hearing Hand – Real-Time ISL Detection
-A real-time Indian Sign Language detector using YOLOv8, MediaPipe, and OpenCV.  
-- Trained on 3,000+ custom ISL gesture images  
-- Achieved 90%+ accuracy on common alphabet signs  
-- Converts live webcam signs into on-screen text  
+### **Languages**
+`Python` · `Java` · `SQL` · `HTML` · `CSS` · `JavaScript`
 
-🔗 Repo: (add your project repo link here, e.g.  
-https://github.com/MahisagarKadam/hearing-hand-real-time-isl-detection)
+### **Machine Learning & CV**
+`YOLOv8` · `MediaPipe` · `OpenCV` · `NumPy` · `Pandas` · `Matplotlib` · `Seaborn`
 
----
+### **Backend & Cloud**
+`Flask` · `FastAPI` · `REST APIs` · `Microsoft Azure`
 
-### 📊 UK Bank Report Dashboard – Power BI
-Interactive analytics dashboard built on a UK bank dataset.  
-- Customer demographics, job sectors, and banking KPIs  
-- DAX measures, slicers, and drill-throughs for better decision-making  
+### **Analytics & BI**
+`Power BI` · `DAX` · `Excel`
 
----
-
-### 🛒 Amazon Product Web Scraper – Python
-Python-based scraper to collect product title, price, and rating.  
-- Used Selectorlib + Requests  
-- Added retry logic and custom headers for 95%+ extraction success  
-- Exported clean data to JSON/Excel for analysis  
+### **Tools**
+`VS Code` · `PyCharm` · `Jupyter` · `Google Colab` · `Git` · `GitHub`
 
 ---
 
-## 📜 Certifications
+## 🔥 Featured Projects
 
-- ✅ Microsoft Certified: <b>Azure Fundamentals (AZ-900)</b> – 895/1000  
-- ✅ <b>Deloitte Australia – Data Analytics Job Simulation</b> (Forage)  
-- ✅ <b>SQL (Basic)</b> – HackerRank  
-- ✅ <b>Python (Basic)</b> – HackerRank  
+### 🖐 Hearing Hand – Real-Time ISL Detection  
+A real-time Indian Sign Language detection system built using **YOLOv8**, **MediaPipe**, and **OpenCV**.  
+→ Recognizes A–Z sign gestures with **90%+ accuracy**.  
+→ Converts live webcam signs to text.  
+🔗 Repo: *Add your repo link here*
 
 ---
 
-## 📈 GitHub Snapshot
+### 📊 UK Bank Report Dashboard  
+Interactive Power BI dashboard analyzing demographics & banking KPIs.  
+→ Built with DAX, slicers & drill-throughs.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahisagarKadam&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahisagarKadam&layout=compact&theme=tokyonight" height="160">
+---
+
+### 🛒 Amazon Web Scraper  
+Python-based scraper for extracting real-time prices, ratings, and titles from Amazon.  
+→ Implemented retry logic + anti-scraping headers.
+
+---
+
+## 🏆 Certifications
+- 🌀 **Microsoft Certified: Azure Fundamentals (AZ-900)** — 895/1000  
+- 📊 **Deloitte Data Analytics Job Simulation**  
+- 🧩 **Python (Basic)** — HackerRank  
+- 🧩 **SQL (Basic)** — HackerRank  
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mahisagar16">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:mahisagar.kadam@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://github.com/MahisagarKadam">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
 </p>
 
 ---
 
-## 🤝 Let’s Connect
+## 📊 GitHub Analytics
 
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/mahisagar16">linkedin.com/in/mahisagar16</a>  
-- 💻 GitHub: <a href="https://github.com/MahisagarKadam">github.com/MahisagarKadam</a>  
-- 📧 Email: <a href="mailto:mahisagar.kadam@gmail.com">mahisagar.kadam@gmail.com</a>  
+<p align="center">
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=MahisagarKadam&show_icons=true&theme=tokyonight" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahisagarKadam&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
+## 🐍 Contribution Snake
+
 <p align="center">
-  <i>“Code, learn, repeat – one commit at a time.”</i>
+  <img src="https://github.com/MahisagarKadam/MahisagarKadam/raw/output/github-contribution-grid-snake.svg" alt="snake gif">
 </p>
+
+---
+
+## 👀 Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/MahisagarKadam/count.svg" />
+</p>
+
+---
+
+<p align="center">✨ <i>Coding is not just a skill — it's a superpower.</i> ✨</p>
