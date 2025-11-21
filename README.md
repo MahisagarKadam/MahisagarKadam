@@ -1,39 +1,87 @@
-<h1 align="center">👋 Hi, I'm <b>Mahisagar Kadam</b></h1>
+<!-- ========================================================= -->
+<!--                     PROFILE HEADER                        -->
+<!-- ========================================================= -->
 
-<div align="center">
+<h1 align="center">👋 Hey, I'm <strong>Mahisagar Kadam</strong></h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=4B9EFF&center=true&vCenter=true&width=500&lines=Python+%7C+Machine+Learning+%7C+Azure;Computer+Vision+%7C+Data+Analytics;Always+Learning+New+Things+🚀)
-
-</div>
-
----
-
-### 👨‍💻 About Me
-- 🎓 Computer Engineering (SPPU)  
-- 🤖 ML, CV, Backend, Cloud enthusiast  
-- ☁ Microsoft Certified **Azure Fundamentals (AZ-900)**  
-- ⚙️ Build real-time systems with Python  
-- 📊 Power BI, SQL, Analytics  
-
----
-
-### 🛠 Tech Stack
-Python · Java · SQL · HTML · CSS · JS · YOLOv8 · MediaPipe · OpenCV · Flask · Azure · Power BI · Git  
-
----
-
-### 📊 GitHub Snapshot
+<!-- Typing Animation -->
 <p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MahisagarKadam&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=600&height=60&lines=Software+Developer;Machine+Learning+Enthusiast;Data+Engineer+in+Progress;Cloud+%26+Azure+Explorer;Real-Time+Computer+Vision+Developer+%F0%9F%8E%AF" alt="Typing Animation"/>
+</p>
+
+<!-- LinkedIn Button -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahisagar16" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🤝 Connect With Me  
-<a href="https://www.linkedin.com/in/mahisagar16" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Mahisagar%20Kadam-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<!-- ========================================================= -->
+<!--                     TECH STACK (LOGOS)                    -->
+<!-- ========================================================= -->
+
+### 🛠 Tech Stack
+<p align="center">
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" height="48"/>
+
+<br/>
+
+<!-- ML & CV -->
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Ultralytics-logo.png" height="48"/>
+
+<br/>
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=flask,fastapi" height="48"/>
+
+<br/>
+
+<!-- Cloud -->
+<img src="https://skillicons.dev/icons?i=azure" height="48"/>
+
+<br/>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="48"/>
+
+</p>
 
 ---
 
-<p align="center"><i>Learning, building, improving — one commit at a time.</i></p>
+<!-- ========================================================= -->
+<!--                   ABOUT / SHORT SUMMARY                   -->
+<!-- ========================================================= -->
+
+### 👨‍💻 About Me  
+- 🎓 B.E. Computer Engineering (2025)  
+- 🤖 Building **real-time ML + Computer Vision** projects  
+- ☁ Working with **Azure Cloud**, APIs & deployment  
+- 🔥 Strong in **Python, Java, Data Engineering, SQL**  
+- 🚀 Passion: Making AI tools useful for **real-world accessibility**  
+
+---
+
+<!-- ========================================================= -->
+<!--                   FEATURED PROJECT CARD                   -->
+<!-- ========================================================= -->
+
+### 🌟 Featured Project: *Hearing Hand – Real-Time ISL Detection*
+A real-time Indian Sign Language recognition system using **YOLOv8 + MediaPipe Holistic + OpenCV**  
+Converts hand signs → live on-screen text.  
+(Designed to improve accessibility)
+
+---
+
+📌 *More projects on my GitHub → check repositories section!*
+
+---
+
+### 📬 Contact  
+📧 Email: **mahisagar.kadam@gmail.com**  
+🔗 LinkedIn: **linkedin.com/in/mahisagar16**
+
