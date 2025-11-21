@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&color=00FFFF&center=true&vCenter=true&width=600&lines=MAHISAGAR+KADAM;Software+Developer;AI+%26+Cloud+Engineer" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Mahisagar%20Kadam&width=800&height=180" />
 </p>
 
 
