@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=200&section=header&text=MAHISAGAR%20KADAM&fontSize=50&fontColor=00ff00&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=000000&text=MAHISAGAR%20KADAM&fontColor=00ff00&fontSize=42&animation=blink" />
 </p>
+
 
 <!-- ✨ TYPING EFFECT -->
 <p align="center">
