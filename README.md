@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm <b>Mahisagar Kadam</b></h1>
 
-<p align="center">
+<div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=4B9EFF&center=true&vCenter=true&width=500&lines=Python+%7C+Machine+Learning+%7C+Azure;Computer+Vision+%7C+Data+Analytics;Always+Learning+New+Things+🚀)
 
-</p>
+</div>
 
 ---
 
