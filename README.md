@@ -1,17 +1,19 @@
-<h1 align="center">👋 Hi, I'm <span style="font-size:34px">Mahisagar Kadam</span></h1>
+<h1 align="center">👋 Hi, I'm Mahisagar Kadam</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=4B9EFF&center=true&vCenter=true&width=550&lines=Python+%7C+Machine+Learning+%7C+Azure;Computer+Vision+%7C+Data+Analytics;Always+Learning+New+Things+🚀">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=4B9EFF&center=true&vCenter=true&width=550&lines=Python+%7C+Machine+Learning+%7C+Azure;Computer+Vision+%7C+Data+Analytics;Always+Learning+New+Things+🚀)
+
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 - 🎓 Computer Engineering (SPPU)  
-- 🤖 Interested in **Machine Learning, Computer Vision, Cloud, Backend**  
+- 🤖 ML, CV, Backend, Cloud enthusiast  
 - ☁ Microsoft Certified **Azure Fundamentals (AZ-900)**  
-- 🐍 Strong in Python, CV pipelines, APIs, analytics  
-- 📌 Like building *real-time systems & automation tools*  
+- ⚙️ Build real-time systems with Python  
+- 📊 Power BI, SQL, Data Analytics  
 
 ---
 
