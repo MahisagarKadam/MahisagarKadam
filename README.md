@@ -1,55 +1,48 @@
-<h1 align="center">Hi 👋, I'm Mahisagar</h1>
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=4B9EFF&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Mahisagar!;Python+%7C+Machine+Learning+%7C+Azure;Computer+Engineering+Student">
+</h1>
 
 <p align="center">
-  <b>Computer Engineering Student · Python & ML Enthusiast · Azure & Data</b>
+  <b>Building things with Python, ML, and Cloud ☁</b>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 B.E. in <b>Computer Engineering</b> (SPPU)  
-- 🧠 Interested in <b>AI/ML, Computer Vision, Backend & Cloud</b>  
-- 🖐 Built <b>Hearing Hand</b> – a real-time Indian Sign Language (ISL) detection system  
-- ☁ Certified in <b>Microsoft Azure Fundamentals (AZ-900)</b>  
-- 📊 Enjoy working with <b>Power BI, SQL, and data analytics</b>  
+- 🎓 Computer Engineering (SPPU)  
+- 🧠 Interests: <b>ML, Computer Vision, Backend, Cloud</b>  
+- ☁ Microsoft Certified <b>Azure Fundamentals (AZ-900)</b>  
+- 📊 Data + Python = ❤️  
+- 🖥 Love working on real-time systems & automation  
 
 ---
 
 ### 🛠 Tech Stack
-**Languages:** Python · Core Java · SQL · HTML · CSS · JavaScript  
-**ML & CV:** YOLOv8 · MediaPipe · OpenCV · NumPy · Pandas · Matplotlib  
-**Backend & Cloud:** Flask · FastAPI (basics) · REST APIs · Microsoft Azure  
-**Analytics & BI:** Power BI · DAX · Excel  
-**Tools:** VS Code · PyCharm · Jupyter · Google Colab · Git · GitHub  
-
----
-
-### 🔍 Highlight Projects
-- 🖐 <b>Hearing Hand – Real-Time ISL Detection</b>  
-  YOLOv8 + MediaPipe based system to recognize ISL alphabet signs from webcam in real time.  
-
-- 📊 <b>UK Bank Report Dashboard</b>  
-  Power BI dashboard with DAX, slicers, and drill-through for banking analytics.  
-
-- 🛒 <b>Amazon Product Web Scraper</b>  
-  Python scraper to collect product title, price, and ratings with retry logic.
-
-*(Check pinned repositories below 👇)*
+**Languages:** Python · Java · SQL · HTML · CSS · JS  
+**ML/CV:** YOLOv8 · MediaPipe · OpenCV · NumPy · Pandas  
+**Backend:** Flask · FastAPI (Basics) · REST APIs  
+**Cloud:** Microsoft Azure  
+**Analytics:** Power BI · DAX · Excel  
+**Tools:** Git · GitHub · VS Code · PyCharm · Jupyter  
 
 ---
 
 ### 📊 GitHub Snapshot
 <p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MahisagarKadam&show_icons=true&theme=tokyonight" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MahisagarKadam&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=MahisagarKadam&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ### 🤝 Connect With Me
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/mahisagar16">linkedin.com/in/mahisagar16</a>  
-- 💻 GitHub: <a href="https://github.com/MahisagarKadam">github.com/MahisagarKadam</a>  
-- 📧 Email: <a href="mailto:mahisagar.kadam@gmail.com">mahisagar.kadam@gmail.com</a>  
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahisagar16" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahisagar%20Kadam-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
 ---
 
-<p align="center"><i>Learning, building, and improving one commit at a time.</i></p>
+<p align="center"><i>Always learning. Always building.</i></p>
