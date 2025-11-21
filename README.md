@@ -1,6 +1,7 @@
-<h1 align="center" style="font-weight:700; font-size:38px;">
-  Mahisagar Kadam
-</h1>
+<!-- Premium Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3c72,100:2a5298&height=140&section=header&text=Mahisagar%20Kadam&fontSize=42&fontColor=f5f5f5&animation=fadeIn" />
+</p>
 
 <!-- Typing Animation (Center) -->
 <p align="center">
@@ -21,7 +22,7 @@ I enjoy designing clean, scalable solutions and exploring tools that make tech s
 
 ---
 
-<h2 align="center">🧠 Tech Stack</h2>
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <!-- Row 1 -->
 <p align="center">
