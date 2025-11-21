@@ -1,7 +1,7 @@
-<!-- 🌈 GRADIENT BANNER -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Mahisagar%20Kadam%20✨&width=800&height=180" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&color=00FFFF&center=true&vCenter=true&width=600&lines=MAHISAGAR+KADAM;Software+Developer;AI+%26+Cloud+Engineer" />
 </p>
+
 
 <!-- ✨ TYPING EFFECT -->
 <p align="center">
