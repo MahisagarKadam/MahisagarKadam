@@ -21,12 +21,23 @@ I enjoy designing clean, scalable solutions and exploring tools that make tech s
 
 ---
 
-<!-- Tech Stack -->
 <h2 align="center">🧠 Tech Stack</h2>
 
+<!-- Row 1 -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,fastapi,opencv,pytorch,tensorflow,azure,git,github,vscode,pycharm,mysql,mongodb,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
 </p>
+
+<!-- Row 2 -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,opencv,pytorch,tensorflow&theme=dark" />
+</p>
+
+<!-- Row 3 -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode,pycharm,mysql,mongodb,figma&theme=dark" />
+</p>
+
 
 ---
 
