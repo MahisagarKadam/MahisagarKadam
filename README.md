@@ -15,10 +15,8 @@
 <div style="background:black; color:#00ff00; width:85%; border:1px solid #003300; padding:20px; border-radius:12px; text-align:left;">
 
 # 🎯 About Me
-**Hearing Hand – Real-Time ISL Detection Developer**  
-Building AI-powered accessibility solutions using **YOLOv8, MediaPipe, OpenCV**.  
-Focused on **Cloud, ML Systems, and Computer Vision**.
-
+**Dedicated engineering student with hands-on experience in modern tools, cloud technologies, and software development.
+Driven to create reliable and meaningful tech solutions.**
 </div>
 
 <br>
