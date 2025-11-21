@@ -35,7 +35,7 @@ I enjoy designing clean, scalable solutions and exploring tools that make tech s
 
 <!-- Row 3 -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode,pycharm,mysql,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode,pycharm&theme=dark" />
 </p>
 
 <!-- Row 4 -->
