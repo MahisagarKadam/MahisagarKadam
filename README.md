@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Mahisagar%20Kadam&width=800&height=180" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&text=Mahisagar%20Kadam&fontColor=00eaff&fontSize=60&animation=fadeIn" />
 </p>
+
 
 
 <!-- ✨ TYPING EFFECT -->
