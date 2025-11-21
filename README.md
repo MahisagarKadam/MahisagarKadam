@@ -38,6 +38,11 @@ I enjoy designing clean, scalable solutions and exploring tools that make tech s
   <img src="https://skillicons.dev/icons?i=azure,git,github,vscode,pycharm,mysql,mongodb&theme=dark" />
 </p>
 
+<!-- Row 4 -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+</p>
+
 
 ---
 
