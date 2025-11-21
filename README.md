@@ -6,8 +6,9 @@
 
 <br>
 
-<!-- TYPING ANIMATION (RGB MODE) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=FF00FF&center=true&vCenter=true&width=700&duration=3000&gradient=true&colors=ff0000,ff7f00,ffff00,00ff00,0000ff,4b0082,8f00ff&lines=Software+Developer;Data+%26+Cloud+Engineer;ISL+Recognition+Developer;Python+%7C+Java+%7C+YOLOv8+Enthusiast" />
+<!-- TYPING ANIMATION (CLEAN & PROFESSIONAL) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=3ABEFF&center=true&vCenter=true&width=700&lines=Software+Developer;Data+%26+Cloud+Engineer;ISL+Recognition+Developer;Python+%7C+Java+%7C+YOLOv8+Enthusiast" />
+
 
 <br><br>
 
